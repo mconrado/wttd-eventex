@@ -1,0 +1,24 @@
+[
+{
+    "model": "core.speaker",
+    "pk": 1,
+    "fields": {
+        "name": "Grace Hopper",
+        "slug": "grace-hopper",
+        "photo": "https://encurtador.com.br/hwzDG",
+        "website": "https://encurtador.com.br/ntCGM",
+        "description": "Programadora e almiranta.\r\nInventora do compilador, criadora da linguagem de programação Flow-Matic serviu de base para a linguagem COBOL permitindo a popularização das aplicações comerciais.\r\nQuer mais o que?"
+    }
+},
+{
+    "model": "core.speaker",
+    "pk": 2,
+    "fields": {
+        "name": "Alan Turing",
+        "slug": "alan-turing",
+        "photo": "https://encurtador.com.br/mnoK2",
+        "website": "https://encurtador.com.br/dlxB9",
+        "description": "Matemático e decifrador de códigos.\r\nInventor do computador moderno, formalizou matematicamente o que é um algorítimo e de quebra salvou o mundo como conhecemos ao destroçar a criptografia nazista."
+    }
+}
+]
